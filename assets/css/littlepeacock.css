@@ -1,0 +1,21 @@
+.site-logo {
+    max-height: 150px;
+    margin-left: -18px;
+}
+
+.site-nav-logo {
+   padding: 0;
+}
+
+.site-nav-logo img {
+    height: 40px;
+}
+.post-card:hover {
+    box-shadow: inherit;
+    transform: translate3D(0,0px,0);
+}
+
+.post-full-content a {
+    color: #109eec;
+    box-shadow: inset 0 -1px 0 #109eec;
+}
