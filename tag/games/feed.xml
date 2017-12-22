@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>http://localhost:4000/littlepeacock_site/</title>
+      <title>http://localhost:4000/</title>
    
-   <link>http://localhost:4000/littlepeacock_site/</link>
+   <link>http://localhost:4000/</link>
    <description>An app development company</description>
    <language>en-us</language>
    
@@ -15,26 +15,26 @@
    <description>
    <![CDATA[ An app development company ]]>
    </description>
-   <link>http://localhost:4000/littlepeacock_site/</link>
+   <link>http://localhost:4000/</link>
    <image>
-   <url>http://localhost:4000/littlepeacock_site/assets/images/favicon.png</url>
+   <url>http://localhost:4000/assets/images/favicon.png</url>
    <title>Little Peacock</title>
-   <link>http://localhost:4000/littlepeacock_site/</link>
+   <link>http://localhost:4000/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="http://localhost:4000/littlepeacock_site/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Mystery Sq</title>
-	  <link>http://localhost:4000/littlepeacock_site/mystery-sq</link>
+	  <link>http://localhost:4000/mystery-sq</link>
 		
 				
 		
 	  <pubDate>2017-12-16T15:54:00-07:00</pubDate>
-	  <guid>http://localhost:4000/littlepeacock_site/mystery-sq</guid>
+	  <guid>http://localhost:4000/mystery-sq</guid>
 	  <description><![CDATA[
 	     <p>Hey! Mystery Sq is an app where you paint pixels to reveal a picture. Discover the picture as you paint.</p>
 
